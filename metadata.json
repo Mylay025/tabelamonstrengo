@@ -1,0 +1,8 @@
+{
+  "name": "Remix Genoma Labs - Catálogo e Tabela de Fretes 95374-2255",
+  "description": "Catálogo oficial de produtos e tabela de fretes da Genoma Labs. Qualidade, segurança e resultados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
